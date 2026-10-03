@@ -1,0 +1,4 @@
+# Seeded by github-governance. The owning team reviews code;
+# changes to the pipeline itself need devsecops.
+*          @alvie-devsecops-lab/backend
+/.github/  @alvie-devsecops-lab/devsecops
